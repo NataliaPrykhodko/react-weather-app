@@ -6,8 +6,7 @@ export default function App() {
   return (
     <div className="App">
      <div className="container">
-        <h1>Weather App</h1>
-        <Weather defaultCity= "Odesa"/>
+          <Weather defaultCity= "Odesa"/>
       <footer class>
           This project was coded by{" "}
           <a href="https://orcid.org/0000-0002-3554-7183"
