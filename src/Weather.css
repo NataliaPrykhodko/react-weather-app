@@ -28,11 +28,9 @@
     text-align: left;
     list-style: none;
 }
-.Weather img {
-    height: 64px;
-    width: 64px;
-    display: inline-block;
-    margin-right: 10px;
+.Weather canvas {
+        display: inline-block;
+    margin-right: 5px;
 }
 .Weather unit {
     color: rgb(33, 33, 33);
