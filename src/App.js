@@ -10,14 +10,14 @@ export default function App() {
         <Weather defaultCity= "Odesa"/>
       <footer class>
           This project was coded by{" "}
-          <a href="https://www.linkedin.com/in/natalia-prykhodko-9a03b5227/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5rwBFBLGQqqzmmGSlyHP%2Fg%3D%3D"
-                    title="LinkedIn Profile">
+          <a href="https://orcid.org/0000-0002-3554-7183"
+                    title="ORCID">
             Natalia Prykhodko
           </a> and is{" "}
           <a href="https://github.com/NataliaPrykhodko/react-weather-app" >
             open-sourced on GitHub </a>{" "}
           and{" "}
-          <a href="https://zippy-druid-e27563.netlify.app/">
+          <a href="https://starlit-elf-d16cc7.netlify.app/">
           hosted on Netlify
           </a>
       </footer>
